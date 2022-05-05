@@ -10,7 +10,7 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   ROUTEMAYHEM: network-route.mayhemfile
-  AUDITMAYHEM: network-route.mayhemfile
+  AUDITMAYHEM: network-audit.mayhemfile
 
 jobs:
   build:
