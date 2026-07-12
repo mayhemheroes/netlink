@@ -1,0 +1,5 @@
+project: netlink
+target: netlink-route
+
+cmds:
+  - cmd: /mayhem/netlink-route

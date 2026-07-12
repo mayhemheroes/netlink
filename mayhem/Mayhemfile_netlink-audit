@@ -1,0 +1,5 @@
+project: netlink
+target: netlink-audit
+
+cmds:
+  - cmd: /mayhem/netlink-audit
